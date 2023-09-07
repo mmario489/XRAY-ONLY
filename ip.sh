@@ -255,7 +255,7 @@ wget https://raw.githubusercontent.com/MyMasWayVPN/XRAY-ONLY/main/install-tools.
 clear
 sleep 2
 echo "-------------------------------------" | lolcat
-echo "     Install Xray " | lolcat
+echo "     Install Xray Server" | lolcat
 echo "-------------------------------------" | lolcat
 sleep 2
 clear
